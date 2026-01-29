@@ -1,6 +1,6 @@
 # Hi there, I'm Indalecio 👋
 
-### Artificial Intelligence Engineer
+📍 **Zacatecas, Mexico** | 🤖 **AI Engineer**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
