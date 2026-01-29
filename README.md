@@ -20,8 +20,16 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
 
-> Developing AI-powered systems - machine learning services - computer vision - ai agents  
+> Developing AI-powered systems - machine learning services - computer vision - ai agents
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/riosinda
 
 ## Current proyects
 
+## Connect
 
+[![X](https://img.shields.io/badge/@inda__code-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/inda_code)
+[![LinkedIn](https://img.shields.io/badge/-Peter_Steinberger-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseindalecio/)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/riosinda)
