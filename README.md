@@ -30,7 +30,7 @@
 
 ## Connect
 
-[![X](https://img.shields.io/badge/@inda__code-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/inda_code)
+[![X](https://img.shields.io/badge/@jose__indalecio1-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/jose_indalecio1)
 [![Instagram](https://img.shields.io/badge/inda__code-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/inda_code/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseindalecio/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/riosinda)
