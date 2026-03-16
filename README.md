@@ -27,7 +27,8 @@
 ![GitHub Contribution Graph](https://ghchart.rshah.org/riosinda)
 
 ## Current proyects
-
+- [Jarvis Agent](https://github.com/riosinda/jarvis-agent): Personal AI assistant built with a ReAct architecture and MCP server for Google Workspace tools (Calendar, Tasks & Gmail) and web search
+- [SCD-ML](https://github.com/riosinda/scd-ml): ML pipeline for skin lesion classification — Mask R-CNN-based segmentation, radiomic feature extraction with PyRadiomics, and multi-model training for dermatological diagnosis support.
 ## Connect
 
 [![X](https://img.shields.io/badge/@jose__indalecio1-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/jose_indalecio1)
